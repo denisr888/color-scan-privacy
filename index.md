@@ -12,6 +12,8 @@ Selected colours, recent colours, saved colours, palettes and preferences are st
 
 Screenshots used by the colour picker are processed temporarily in memory to identify the selected colour.
 
+The extension may temporarily access the active tab's URL to validate the page and support colour picking. This information is not stored as browsing history or transmitted to our servers.
+
 **We do not transmit, sell or share your data with third parties.** The extension does not use analytics, tracking or external data collection services.
 
 ## Data Retention
