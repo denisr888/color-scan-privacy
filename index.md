@@ -6,11 +6,11 @@ Color Scan respects your privacy. The extension does not require an account or c
 
 ## Information and Data
 
-Color Scan processes webpage colours and visual information only when you actively use its colour picker or webpage extraction features.
+Color Scan processes visual information from your screen only when you actively use its colour picker to identify a colour.
 
 Selected colours, recent colours, saved colours, palettes and preferences are stored locally in your browser using Chrome's extension storage.
 
-Screenshots used by the colour picker and webpage information accessed during extraction are processed temporarily to provide the requested functionality.
+Screenshots used by the colour picker are processed temporarily in memory to identify the selected colour.
 
 **We do not transmit, sell or share your data with third parties.** The extension does not use analytics, tracking or external data collection services.
 
